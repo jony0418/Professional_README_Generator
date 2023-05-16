@@ -20,6 +20,8 @@ To install what is necessary, run the following command: npm install fs Inquirer
 ## Usage
 To use the application, tun the following command in your terminal: node index.js Then, answer the prompts in your command line. Once you have answer all the prompts, a README.md file wil be generated in your current directory.
 
+You can check out a video walkthrough of the application [here](https://youtu.be/-hqefmr1oQA).
+
 ## License
 This project is covered under the MIT license.
 
